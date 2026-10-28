@@ -1,0 +1,92 @@
+[
+    {
+        "item": "Cappuccino",
+        "timestamp": "2026-10-15T07:00:00",
+        "price": 966.98
+    },
+    {
+        "item": "Cappuccino",
+        "timestamp": "2026-10-15T08:00:00",
+        "price": 723.86
+    },
+    {
+        "item": "Cappuccino",
+        "timestamp": "2026-10-15T09:00:00",
+        "price": 91.78999999999999
+    },
+    {
+        "item": "Croissant",
+        "timestamp": "2026-10-15T07:00:00",
+        "price": 590.62
+    },
+    {
+        "item": "Croissant",
+        "timestamp": "2026-10-15T08:00:00",
+        "price": 844.0899999999999
+    },
+    {
+        "item": "Croissant",
+        "timestamp": "2026-10-15T09:00:00",
+        "price": 119.85000000000001
+    },
+    {
+        "item": "Espresso",
+        "timestamp": "2026-10-15T07:00:00",
+        "price": 576.45
+    },
+    {
+        "item": "Espresso",
+        "timestamp": "2026-10-15T08:00:00",
+        "price": 760.53
+    },
+    {
+        "item": "Espresso",
+        "timestamp": "2026-10-15T09:00:00",
+        "price": 3.49
+    },
+    {
+        "item": "Latte",
+        "timestamp": "2026-10-15T07:00:00",
+        "price": 1154.13
+    },
+    {
+        "item": "Latte",
+        "timestamp": "2026-10-15T08:00:00",
+        "price": 706.3
+    },
+    {
+        "item": "Latte",
+        "timestamp": "2026-10-15T09:00:00",
+        "price": 4.3
+    },
+    {
+        "item": "Muffin",
+        "timestamp": "2026-10-15T07:00:00",
+        "price": 649.68
+    },
+    {
+        "item": "Muffin",
+        "timestamp": "2026-10-15T08:00:00",
+        "price": 642.21
+    },
+    {
+        "item": "Muffin",
+        "timestamp": "2026-10-15T09:00:00",
+        "price": 76.50999999999999
+    },
+    {
+        "item": "Sandwich",
+        "timestamp": "2026-10-15T07:00:00",
+        "price": 1896.14
+    },
+    {
+        "item": "Sandwich",
+        "timestamp": "2026-10-15T08:00:00",
+        "price": 1464.36
+    },
+    {
+        "item": "Sandwich",
+        "timestamp": "2026-10-15T09:00:00",
+        "price": 130.73
+    }
+]
